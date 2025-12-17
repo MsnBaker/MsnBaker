@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<< Silent Witch >> is a very light-hearted and I personally really like it ! ! !
+<< Silent Witch >> is a very light-hearted anime and I personally really like it ! ! !
 
 <div style="display: flex; gap: 10px;">
   <img src="assets/pics/Monica94.png" width="400">
