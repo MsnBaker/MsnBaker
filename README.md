@@ -2,7 +2,10 @@
 
 Code is magic
 
-![Monica](./assets/Monica100.png)
+<div style="display: flex; gap: 10px;">
+  <img src="assets/pics/Monica94.png" width="200">
+  <img src="assets/pics/Monica100.png" width="300">
+</div>
 
 
 <!--
