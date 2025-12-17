@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-Code is magic
+<< Silent Witch >> is a very light-hearted and I personally really like it ! ! !
 
 <div style="display: flex; gap: 10px;">
-  <img src="assets/pics/Monica94.png" width="300">
-  <img src="assets/pics/Monica100.png" width="300">
+  <img src="assets/pics/Monica94.png" width="400">
+  <img src="assets/pics/Monica100.png" width="400">
 </div>
 
 
