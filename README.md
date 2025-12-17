@@ -3,8 +3,8 @@
 Code is magic
 
 <div style="display: flex; gap: 10px;">
-  <img src="assets/pics/Monica94.png" width="600">
-  <img src="assets/pics/Monica100.png" width="600">
+  <img src="assets/pics/Monica94.png" width="300">
+  <img src="assets/pics/Monica100.png" width="300">
 </div>
 
 
