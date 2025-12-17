@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+Code is magic
+
+![Monica](./assets/Monica100.png)
+
+
 <!--
 **MsnBaker/MsnBaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
